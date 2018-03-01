@@ -1,2 +1,2 @@
 # Simple-Loading-Indicator
-This project is in working.
+[Documentation and demo is here.](https://okay-apps.github.io/simple-loading-indicator.js/demo/index.html)
